@@ -1,7 +1,9 @@
 package com.lahzei.app.ui.weather
 
 import android.os.Bundle
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
@@ -85,7 +87,7 @@ class WeatherDetailActivity : AppCompatActivity() {
 
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = VH(
             com.lahzei.app.databinding.ItemForecastBinding.inflate(
-                android.view.LayoutInflater.from(parent.context), parent, false
+                LayoutInflater.from(parent.context), parent, false
             )
         )
 
