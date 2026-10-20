@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لحظه‌ای</string>
+    <string name="brand_note">قیمت و آب‌وهوا</string>
+
+    <string name="tab_weather">آب‌وهوا</string>
+    <string name="tab_gold">طلا</string>
+    <string name="tab_crypto">رمزارز</string>
+    <string name="tab_currency">ارز</string>
+    <string name="tab_convert">مبدل</string>
+
+    <string name="retry">تلاش مجدد</string>
+    <string name="refresh">به‌روزرسانی</string>
+    <string name="update_rates">به‌روزرسانی نرخ‌ها</string>
+    <string name="swap">جابه‌جایی</string>
+
+    <string name="search_city_hint">جستجوی شهر… (مثلاً شیراز)</string>
+    <string name="major_cities">شهرهای پرجمعیت ایران</string>
+    <string name="search_results">نتایج جستجو</string>
+    <string name="weather_note">منبع داده: Open-Meteo • برای پیش‌بینی ۵ روزه روی هر شهر بزنید</string>
+    <string name="forecast_5day">پیش‌بینی ۵ روز آینده</string>
+
+    <string name="free_market_dollar">دلار آمریکا (بازار آزاد)</string>
+    <string name="prices_note">منبع: TGJU • قیمت‌ها جنبه اطلاع‌رسانی دارند</string>
+    <string name="currency_note">نرخ‌های جهانی × دلار بازار آزاد ایران</string>
+
+    <string name="amount_hint">مقدار را وارد کنید</string>
+    <string name="convert_result">نتیجه تبدیل</string>
+    <string name="converter_note">همه واحدها از مسیر تومان محاسبه می‌شوند</string>
+</resources>

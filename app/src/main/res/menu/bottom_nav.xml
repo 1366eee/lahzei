@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_weather"
+        android:icon="@drawable/ic_weather"
+        android:title="@string/tab_weather" />
+    <item
+        android:id="@+id/nav_gold"
+        android:icon="@drawable/ic_gold"
+        android:title="@string/tab_gold" />
+    <item
+        android:id="@+id/nav_crypto"
+        android:icon="@drawable/ic_crypto"
+        android:title="@string/tab_crypto" />
+    <item
+        android:id="@+id/nav_currency"
+        android:icon="@drawable/ic_currency"
+        android:title="@string/tab_currency" />
+    <item
+        android:id="@+id/nav_convert"
+        android:icon="@drawable/ic_convert"
+        android:title="@string/tab_convert" />
+</menu>
